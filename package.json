@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/eastend-street/typescript-udemy-practice#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
