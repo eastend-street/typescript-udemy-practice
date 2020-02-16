@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eastend-street/typescript-udemy-practice/issues"
   },
-  "homepage": "https://github.com/eastend-street/typescript-udemy-practice#readme"
+  "homepage": "https://github.com/eastend-street/typescript-udemy-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
