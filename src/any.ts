@@ -14,5 +14,13 @@ axios.get(url).then(response => {
   }
   //   let data: object[] = response.data; // objectだとまだ中身がわからないので、interfaceで定義する
   let data: Article[] = response.data;
+
+  //   data = [
+  //       {
+  //           id: 1,
+  //           title: "title",
+  //           description: "description"
+  //       }
+  //   ]
   console.log(data);
 });
