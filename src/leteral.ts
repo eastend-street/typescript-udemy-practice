@@ -11,4 +11,4 @@ month = 12;
 
 // booleanはもともと有限なのでほぼ使わない
 let TRUE: true = true;
-TRUE = false;
+// TRUE = false;
